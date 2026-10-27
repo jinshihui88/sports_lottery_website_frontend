@@ -1,7 +1,7 @@
 {
   "name": "sports-lottery-website",
   "version": "1.0.0",
-  "description": "体育彩票投注记录管理系统",
+  "description": "足球数据分析记录管理系统",
   "type": "module",
   "scripts": {
     "dev": "vite",
